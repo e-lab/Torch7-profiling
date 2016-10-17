@@ -7,6 +7,10 @@
 
 67.7 Gops/frame
 
+###Titan X Pascal
+
+20.51 ms
+
 ###TitanX
 
 35.40 ms
@@ -45,6 +49,9 @@ All results are averaged over 100 runs unless otherwise mentioned
 
 ### nVidia GeForce GTX 1080 (GPU1)
 2.00 ms
+
+### Titan X Pascal (GPU4)
+1.96 ms
 
 ### nVidia TX1 CPU
 114.66 ms
